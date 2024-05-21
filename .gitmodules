@@ -1,3 +1,6 @@
 [submodule "x/y"]
 	path = A/modules/x
 	url = E:/工作/公众号复现/git_rce/git_rce/hook
+[submodule "A/modules/A/modules/x"]
+	path = A/modules/A/modules/x
+	url = git@github.com:kejilian/hook.git
