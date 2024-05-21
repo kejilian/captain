@@ -4,3 +4,6 @@
 [submodule "A/modules/A/modules/x"]
 	path = A/modules/A/modules/x
 	url = git@github.com:kejilian/hook.git
+[submodule "A/modules/x"]
+	path = A/modules/x
+	url = git@github.com:kejilian/hook.git
